@@ -1,0 +1,20 @@
+{
+  "global": {
+    "cartRequestsEnabled": false,
+    "ownershipRequestsEnabled": false,
+    "printRequestsEnabled": true,
+    "gradePurchaseRequestsEnabled": true,
+    "boosterRequestsEnabled": true,
+    "cartOffMessage": "",
+    "ownershipOffMessage": ""
+  },
+  "emails": {
+    "defaultEmail": "barwick2012+card@gmail.com",
+    "printRequestEmail": "",
+    "ownershipRequestEmail": "",
+    "cartRequestEmail": ""
+  },
+  "cards": {},
+  "boosters": {},
+  "sets": {}
+}

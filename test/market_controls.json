@@ -1,0 +1,38 @@
+{
+  "global": {
+    "cartRequestsEnabled": false,
+    "ownershipRequestsEnabled": false,
+    "printRequestsEnabled": false,
+    "gradePurchaseRequestsEnabled": false,
+    "boosterRequestsEnabled": false,
+    "cartOffMessage": "",
+    "ownershipOffMessage": ""
+  },
+  "emails": {
+    "defaultEmail": "barwick2012+card@gmail.com",
+    "printRequestEmail": "",
+    "ownershipRequestEmail": "",
+    "cartRequestEmail": "barwick2012+card@gmail.com"
+  },
+  "cards": {
+    "BCV-MPRNVHTG-YOT0": {
+      "printEnabled": false,
+      "reason": ""
+    },
+    "BCV-MM-001": {},
+    "BCV-MM-002": {},
+    "BCV-MM-003": {},
+    "BCV-MM-004": {},
+    "BCV-MM-005": {},
+    "BCV-MM-006": {},
+    "BCV-MM-007": {},
+    "BCV-MM-008": {},
+    "BCV-MM-009": {},
+    "BCV-MM-010": {},
+    "BCV-MM-011": {},
+    "BCV-MM-012": {},
+    "BCV-MM-013": {}
+  },
+  "boosters": {},
+  "sets": {}
+}
